@@ -5,3 +5,5 @@
 
 # 하위 디렉토리에서도 cpp 파일 추적
 !*/
+.vs/
+Data Structure.sln
