@@ -1,5 +1,11 @@
 #include <iostream>
 #include <string>
+
+/*
+	delete, search by value, search by index는 구현하지 않음
+	매우 기초적인 형태의 단방향 연결 리스트
+*/
+
 template<typename T>
 struct Node {
 	T data{};
